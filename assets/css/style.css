@@ -8,6 +8,8 @@ body {
   background-color: #d9dcd6;
 }
 
+/* begin header formating */
+
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -26,6 +28,8 @@ header h1 {
   color: #d9dcd6;
 }
 
+/* nav bar formating */
+
 header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -42,6 +46,8 @@ header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
+
+/* main content formating */
 
 a {
   color: #ffffff;
@@ -95,6 +101,8 @@ h2 {
   margin-right: 25px;
 }
 
+/* aside formating */
+
 aside {
   margin-right: 20px;
   padding: 20px;
@@ -118,6 +126,8 @@ aside section img {
   margin: 20px auto;
   max-width: 150px;
 }
+
+/* footer formating */
 
 footer {
   padding: 30px;
