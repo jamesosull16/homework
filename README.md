@@ -4,10 +4,6 @@ As a digital marketing agency we strive to build and maintain our clients websit
 
 ![HoriSEOn Screenshot](https://user-images.githubusercontent.com/68437189/94373979-2e956780-00c6-11eb-8ca2-1dcaaf08a5e4.png)
 
-link to web app
+[HoriSEOn Digital Marketing](https://jamesosull16.github.io/homework01/)
 
-https://jamesosull16.github.io/homework01/
-
-github repo link
-
-https://github.com/jamesosull16/homework01
+[Github Repo](https://github.com/jamesosull16/homework01)
